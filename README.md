@@ -35,7 +35,7 @@ Note: Above lists are loosely representative of the order in which I am skilled 
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Connect to VSCode to Colab](https://jacquesthibodeau.com/deep-learning-setup/vscode/google-colab/2021/09/27/connect-to-colab-from-local-vscode.html)
-- [Interesting Applications of AI - Elicit (GPT-3)](hhttps://jacquesthibodeau.com/gpt/elicit/ought/2021/09/24/experimenting-with-elicit.html)
+- [Interesting Applications of AI - Elicit (GPT-3)](https://jacquesthibodeau.com/gpt/elicit/ought/2021/09/24/experimenting-with-elicit.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jacquesthibodeau.com/)
