@@ -5,8 +5,8 @@
 
 ## I'm a French Canadian, ML Developer, and Physicist!
 
-- 🌱 I’m currently focused on building ML in production efficiently and safely.
-- 👯 I’m looking to collaborate with others on end-to-end ML projects 🤓
+- 🌱 I’m currently focused on **building ML in production efficiently and safely**.
+- 👯 I’m looking to **collaborate with others** on end-to-end ML projects 🤓
 - 🥅 2021-2022 Goals: Produce content on my [blog][website] to teach people about ML in Production.
 - ⚡ Fun fact: I like martial arts 🤺 and used to host a radio show!
 
@@ -20,12 +20,12 @@
 
 ### Languages and Tools:
 
-* Primary Languages: Python, SQL
-* ML Frameworks: PyTorch Lightning, PyTorch, Hugging Face Transformers, Fastai, Keras (TensorFlow), PySpark
-* ML Techniques: NLP, Tabular ML, Semantic Segmentation / Computer Vision
-* ML Tools: Snorkel, Tableau, Streamlit, FastAPI, Label Studio
-* Cloud Computing: AWS (SageMaker, Lambda, Docker, CloudWatch, S3), Azure Machine Learning, Google Cloud Platform
-* Other skills: Design, Leadership, Project Management, Business-sense
+* **Primary Languages**: **Python**, SQL
+* **ML Frameworks**: **PyTorch Lightning**, PyTorch, Hugging Face Transformers, Fastai, Keras (TensorFlow), PySpark
+* **ML Techniques**: **NLP**, Tabular ML, Semantic Segmentation / Computer Vision
+* **ML Tools**: Snorkel, Tableau, Streamlit, FastAPI, Label Studio
+* **Cloud Computing**: **AWS** (SageMaker, Lambda, Docker, CloudWatch, S3), Azure Machine Learning, Google Cloud Platform
+* **Other skills**: Design, Leadership, Project Management, Business-sense
 
 Note: Above lists are loosely representative of the order in which I am skilled in those languages and tools.
 
