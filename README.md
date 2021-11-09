@@ -22,7 +22,7 @@
 
 * **Primary Languages**: **Python**, SQL
 * **ML Frameworks**: **PyTorch Lightning**, PyTorch, Hugging Face Transformers, spaCy, Fastai, Keras (TensorFlow), PySpark
-* **ML Techniques**: **NLP**, Tabular ML, Semantic Segmentation / Computer Vision
+* **ML Techniques**: **NLP**, Tabular ML, Semantic Segmentation / Computer Vision, GitHub Actions
 * **ML Tools**: Weights and Biases, Snorkel, Tableau, Streamlit, FastAPI, Label Studio
 * **Cloud Computing**: **AWS** (SageMaker, Lambda, Docker, CloudWatch, S3), Azure Machine Learning, Google Cloud Platform
 * **Other skills**: Design, Leadership, Project Management, Business-sense
