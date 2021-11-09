@@ -40,16 +40,16 @@ Note: Above lists are loosely representative of the order in which I am skilled 
 
 ➡️ [more blog posts...](https://jacquesthibodeau.com/)
 
----
+<!-- ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recent GitHub Activity</summary> -->
   
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
