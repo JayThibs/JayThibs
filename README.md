@@ -63,7 +63,6 @@ Note: Above lists are loosely representative of the order in which I am skilled 
 </details> -->
 
 [website]: https://jacquesthibodeau.com/
-[course]: http://vsCodeHero.com
 [personal_twitter]: https://twitter.com/JacquesThibs
 [ai_twitter]: https://twitter.com/TheAIDev
 [linkedin]: https://www.linkedin.com/in/jacques-thibodeau/
