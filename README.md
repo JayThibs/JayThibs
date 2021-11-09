@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jacquesthibodeau.com" width="22px" src="https://raw.githubusercontent.com/JayThibs/jacques-blog/master/images/favicon.ico" />][website]
+[<img align="left" alt="jacquesthibodeau.com" width="30px" src="https://raw.githubusercontent.com/JayThibs/jacques-blog/master/images/favicon.ico" />][website]
 [<img align="left" alt="jacquesthibodeau.com | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][ai_twitter]
 [<img align="left" alt="jacquesthibodeau.com | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
