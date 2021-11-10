@@ -25,7 +25,6 @@
 * **ML Techniques**: **NLP**, Tabular ML, Semantic Segmentation / Computer Vision, GitHub Actions
 * **ML Tools**: Weights and Biases, Snorkel, Tableau, Streamlit, FastAPI, Label Studio
 * **Cloud Computing**: **AWS** (SageMaker, Lambda, Docker, CloudWatch, S3), Azure Machine Learning, Google Cloud Platform
-* **Other skills**: Design, Leadership, Project Management, Business-sense
 
 Note: Above lists are loosely representative of the order in which I am skilled in those languages and tools.
 
