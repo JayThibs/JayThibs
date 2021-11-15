@@ -18,6 +18,13 @@
 
 <br />
 
+### Highlighted Projects:
+
+* [Map Floodwater with Satellite Imagery](https://github.com/JayThibs/map-floodwater-satellite-imagery): Trained multiple models with PyTorch Lightning and Wandb in AWS SageMaker and Google Colab to predict floodwater in satellite imagery. Deployed the best model for prediction via a Streamlit web app.
+* [A Case Study on Weakly Supervised Learning](https://github.com/JayThibs/Weak-Supervised-Learning-Case-Study): Chosen as a top project in the Full Stack Deep Learning course of over 300 professionals. Deployed NLP models on Azure and called the deployed models for text data labelling. (PyTorch, HuggingFace, Snorkel)
+* [HyperDrive vs AutoML + Deployment in Azure](https://github.com/JayThibs/hyperdrive-vs-automl-plus-deployment): Trained tabular models using hyperparameter search and AutoML. Deployed the best XGBoost model.
+* [Operationalizing ML in Azure](https://github.com/JayThibs/Operationalizing-ML-with-Azure): Created an AutoML training and deployment pipeline.
+
 ### Languages and Tools:
 
 * **Primary Languages**: **Python**, SQL
