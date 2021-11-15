@@ -5,6 +5,7 @@
 
 ## I'm a French Canadian, ML Developer, and Physicist!
 
+- 📄 Here's my [resume](https://docs.google.com/document/d/1v-Nb-F6FRKzASZnj8FevNOK86iPDbxnv2l5VrJBaeQM/edit?usp=sharing).
 - 🌱 I’m currently focused on **building ML in production efficiently and safely**.
 - 👯 I’m looking to **collaborate with others** on end-to-end ML projects 🤓
 - 🥅 2021-2022 Goals: Produce content on my [blog][website] to teach people about ML in Production.
