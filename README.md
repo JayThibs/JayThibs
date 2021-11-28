@@ -26,6 +26,10 @@
 * [HyperDrive vs AutoML + Deployment in Azure](https://github.com/JayThibs/hyperdrive-vs-automl-plus-deployment): Trained tabular models using **hyperparameter search** and **AutoML**. Deployed the best **XGBoost** model.
 * [Operationalizing ML in Azure](https://github.com/JayThibs/Operationalizing-ML-with-Azure): Created an AutoML training and **deployment pipeline**.
 
+### Current Projects
+
+* [GPT Experiments](https://github.com/JayThibs/gpt-experiments): I am currently working on doing some prompt engineering and fine-tuning with GPT models. Latest experiment was fine-tuning GPT-2 on Elon Musk tweets.
+
 ### Languages and Tools:
 
 * **Primary Languages**: **Python**, SQL
