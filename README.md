@@ -28,7 +28,7 @@
 
 ### Current Projects
 
-* [GPT Experiments](https://github.com/JayThibs/gpt-experiments): I am currently working on doing some prompt engineering and fine-tuning with GPT models. Latest experiment was fine-tuning GPT-2 on Elon Musk tweets.
+* [GPT Experiments](https://github.com/JayThibs/gpt-experiments): I am currently working on doing some prompt engineering and fine-tuning with GPT models. Latest experiment was fine-tuning GPT-2 on Elon Musk tweets. Now working on fine-tuning GPT-J.
 
 ### Languages and Tools:
 
