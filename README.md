@@ -31,7 +31,7 @@
 * [GPT StackOverflow QA](https://github.com/JayThibs/gpt-stackoverflow-QA) and [GPT Experiments](https://github.com/JayThibs/gpt-experiments): I am currently working on doing some prompt engineering and fine-tuning with GPT models. Latest experiment was fine-tuning GPT-2 on Elon Musk tweets. Now working on fine-tuning GPT-J with GCP TPUs on StackOverflow questions and answers.
 * [Transformers from Scratch](https://github.com/JayThibs/transformers-from-scratch): Transformers are amazing. I want to learn more about the nitty-gritty so I'm spending some time learning the theory and implementation from scratch.
 * [Berdi](https://github.com/CER-REC/esa-data-bank_banque-donnees-ees): Work project. It involves grabbing PDFs from a database, extracting text and figures, and preparing for use in a search tool my team has created. I'm currently restructuring the repository and implementing best practices.
-* [Canada Energy Regulator Question-Answering App](https://github.com/JayThibs/cer-qa-app): Work project. This is project where I extract and clean texts from PDFs, train a QA model using Haystack and Hugginface Transformers, then deploy it for natural language question-answering for internal stakeholders.
+* [Canada Energy Regulator Question-Answering App](https://github.com/JayThibs/cer-qa-app): Work project. This is a project where I extract and clean texts from PDFs, train a QA model using Haystack and Hugginface Transformers, then deploy it for natural language question-answering for internal stakeholders.
 
 ### Languages and Tools:
 
