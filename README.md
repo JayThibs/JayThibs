@@ -28,6 +28,7 @@
 
 ### Current Projects
 
+* I'm currently giving a workshop on a variety of topics every week at work. Some of the latest workshops include code reviews, software engineering best practices, and how to use Huggingface.
 * [GPT StackOverflow QA](https://github.com/JayThibs/gpt-stackoverflow-QA) and [GPT Experiments](https://github.com/JayThibs/gpt-experiments): I am currently working on doing some prompt engineering and fine-tuning with GPT models. Latest experiment was fine-tuning GPT-2 on Elon Musk tweets. Now working on fine-tuning GPT-J with GCP TPUs on StackOverflow questions and answers.
 * [Transformers from Scratch](https://github.com/JayThibs/transformers-from-scratch): Transformers are amazing. I want to learn more about the nitty-gritty so I'm spending some time learning the theory and implementation from scratch.
 * [Berdi](https://github.com/CER-REC/esa-data-bank_banque-donnees-ees): Work project. It involves grabbing PDFs from a database, extracting text and figures, and preparing for use in a search tool my team has created. I'm currently restructuring the repository and implementing best practices.
