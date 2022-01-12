@@ -8,8 +8,8 @@
 - 📄 Here's my [resume](https://docs.google.com/document/d/1v-Nb-F6FRKzASZnj8FevNOK86iPDbxnv2l5VrJBaeQM/edit?usp=sharing) and my [LinkedIn profile](https://www.linkedin.com/in/jacques-thibodeau/).
 - 🌱 I’m currently focused on **building ML in production efficiently and safely**.
 - 👯 I’m looking to **collaborate with others** on end-to-end ML projects 🤓
-- 🥅 2021-2022 Goals: Produce content on my [blog][website] to teach people about ML in Production.
-- ⚡ Fun fact: I like martial arts 🤺 and used to host a radio show!
+- 🥅 2022 Goals: Produce content on my [blog][website] to teach people about ML in Production. Learn more about AI Safety (and AGI).
+- ⚡ Fun facts: I like martial arts 🤺 and used to host a radio show!
 
 ### Connect with me:
 
@@ -24,6 +24,7 @@
 * [Map Floodwater with Satellite Imagery](https://github.com/JayThibs/map-floodwater-satellite-imagery): Trained multiple models with **PyTorch Lightning** and **Wandb** in **AWS SageMaker** and Google Colab to predict floodwater in satellite imagery. Deployed the best model for prediction via a **Streamlit web app**.
 * [A Case Study on Weakly Supervised Learning](https://github.com/JayThibs/Weak-Supervised-Learning-Case-Study): Chosen as a top project in the **Full Stack Deep Learning** course of over 300 professionals. Deployed **NLP** models on **Azure** and called the deployed models for text data labelling. (**PyTorch**, **HuggingFace**, **Snorkel**)
 * [HyperDrive vs AutoML + Deployment in Azure](https://github.com/JayThibs/hyperdrive-vs-automl-plus-deployment): Trained tabular models using **hyperparameter search** and **AutoML**. Deployed the best **XGBoost** model.
+* [Operationalizing ML in Azure](https://github.com/JayThibs/Operationalizing-ML-with-Azure): Created an AutoML training and **deployment pipeline**.
 * [Berdi](https://github.com/CER-REC/esa-data-bank_banque-donnees-ees): Grabbing PDFs from a database, extracting text and figures, and preparing for use in a search tool my team has created. Set up code review process and reorganized the structure of the entire repository.
 
 ### Current Projects
