@@ -29,7 +29,7 @@
 
 ### Current Projects
 
-* [GPT StackOverflow QA](https://github.com/JayThibs/gpt-stackoverflow-QA) and [GPT Experiments](https://github.com/JayThibs/gpt-experiments): I am currently working on doing some prompt engineering and fine-tuning with GPT models. Latest experiment was fine-tuning GPT-2 on Elon Musk tweets. Now working on fine-tuning GPT-J with GCP TPUs on StackOverflow questions and answers.
+* [Language Models as Tools for AI Alignment Research](https://github.com/moirage/alignment-research-dataset): As part of the [AI Safety Camp](https://aisafety.camp/), my team is working on fine-tuning a custom dataset of AI Safety relevant resources (papers, blog posts, books, etc.) on GPT models to accelerate alignment research. Our team is also collaborating with people at [EleutherAI](https://www.eleuther.ai/). If you'd like to contribute, please join the EleutherAI Discord and go to the #accelerate-alignment channel.
 * [Transformers from Scratch](https://github.com/JayThibs/transformers-from-scratch): Transformers are amazing. I want to learn more about the nitty-gritty so I'm spending some time learning the theory and implementation from scratch.
 
 ### Languages and Tools:
