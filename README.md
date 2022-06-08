@@ -1,20 +1,13 @@
 ### Hi there, I'm Jacques - aka [JayThibs][website] 👋 
 
 [![Website](https://img.shields.io/website?label=jacquesthibodeau.com&style=for-the-badge&url=https%3A%2F%2Fjacquesthibodeau.com)](https://jacquesthibodeau.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheAIDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJayThibs&screen_name=TheAIDev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/JacquesThibs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJayThibs&screen_name=TheAIDev)
 
 ## I'm a French Canadian, ML Developer, and Physicist!
 
 - 📄 Here's my [resume](https://docs.google.com/document/d/1v-Nb-F6FRKzASZnj8FevNOK86iPDbxnv2l5VrJBaeQM/edit?usp=sharing) and my [LinkedIn profile](https://www.linkedin.com/in/jacques-thibodeau/).
 - 🌱 I’m currently focused on creating impactful datasets and using language models (like GPT) as tools for accelerating AI alignment.
 - 🥅 2022 Goals: Produce content on my [blog][website] to teach people about ML in Production. Learn more about AI Safety (and AGI).
-- ⚡ Fun facts: I like martial arts 🤺 and used to host a radio show!
-
-### Connect with me:
-
-[<img align="left" alt="jacquesthibodeau.com" width="30px" src="https://raw.githubusercontent.com/JayThibs/jacques-blog/master/images/favicon.ico" />][website]
-[<img align="left" alt="jacquesthibodeau.com | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][ai_twitter]
-[<img align="left" alt="jacquesthibodeau.com | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
 
