@@ -9,8 +9,6 @@
 - 🌱 I’m currently focused on creating impactful datasets and using language models (like GPT) as tools for accelerating AI alignment.
 - 🥅 2022 Goals: Produce content on my [blog][website] to teach people about ML in Production. Learn more about AI Safety (and AGI).
 
-<br />
-
 ### Current Projects
 
 * [Language Models as Tools for AI Alignment Research](https://github.com/moirage/alignment-research-dataset): As part of the [AI Safety Camp](https://aisafety.camp/), my team is working on fine-tuning a custom dataset of AI Safety relevant resources (papers, blog posts, books, etc.) on GPT models to accelerate alignment research. Our team is also collaborating with people at [EleutherAI](https://www.eleuther.ai/). If you'd like to contribute, please join the EleutherAI Discord and go to the #accelerate-alignment channel.
