@@ -7,7 +7,7 @@
 
 - 📄 Here's my [resume](https://docs.google.com/document/d/1v-Nb-F6FRKzASZnj8FevNOK86iPDbxnv2l5VrJBaeQM/edit?usp=sharing) and my [LinkedIn profile](https://www.linkedin.com/in/jacques-thibodeau/).
 - 🌱 I’m currently focused on creating impactful datasets and using language models (like GPT) as tools for accelerating AI alignment.
-- 🥅 2022 Goals: arn more about AI Safety (and AGI).
+- 🥅 2022 Goals: learn more about AI Safety (and AGI).
 
 ### Current Project(s)
 
