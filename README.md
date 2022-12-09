@@ -5,7 +5,7 @@
 
 ## I'm a French Canadian working on AI Alignment!
 
-- 📄 Here's my [resume](https://docs.google.com/document/d/1v-Nb-F6FRKzASZnj8FevNOK86iPDbxnv2l5VrJBaeQM/edit?usp=sharing) and my [LinkedIn profile](https://www.linkedin.com/in/jacques-thibodeau/).
+- 📄 Here's my [resume](https://docs.google.com/document/d/1DJ4z6LjEponHrweObPjoFEssXYWJKzeCkRlKOXDPOX0/edit?usp=sharing) and my [LinkedIn profile](https://www.linkedin.com/in/jacques-thibodeau/). For my AI alignment takes, [here](https://www.lesswrong.com/users/jacques-thibodeau)'s my LessWrong profile.
 - 🌱 I’m currently focused on creating impactful datasets and using language models (like GPT) as tools for accelerating AI alignment.
 - 🥅 2022 Goals: learn more about AI Safety (and AGI).
 
