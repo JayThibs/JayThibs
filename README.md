@@ -19,6 +19,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Computing, Photonics, and Energy Bottlenecks for AGI](https://jacquesthibodeau.com/will-quantum-computing-play-a-role-in-agi-development/)
+- [AI Insights #1: How Misalignment Could Lead to Takeover & Necessary Safety Properties](https://jacquesthibodeau.com/ai-insights-1-how-misalignment-could-lead-to-takeover-necessary-safety-properties/)
 - [What I've Been Doing Lately (early 2024) and Call for Collaborators](https://jacquesthibodeau.com/update-on-what-ive-been-doing/)
 <!-- BLOG-POST-LIST:END -->
 
