@@ -12,7 +12,6 @@
 
 * Collaborating on the Supervising AIs Improving AIs agenda (making automated AI science safe and controllable). The current project involves a new method allowing unsupervised model behaviour evaluations. [Our agenda](https://www.lesswrong.com/posts/7e5tyFnpzGCdfT4mR/research-agenda-supervising-ais-improving-ais).
 * 🌱 [Accelerating Alignment](https://docs.google.com/document/d/1g-p_8d-7c29WHeA_sQih1YZ7QDlpHd2kGL_IskF8Ix4/edit?usp=sharing): augmenting alignment researchers using AI systems. A relevant [talk](https://www.youtube.com/watch?v=rDK0XxFyrzQ) I gave. [Relevant survey post](https://www.lesswrong.com/posts/a2io2mcxTWS4mxodF/results-from-a-survey-on-tool-use-and-workflows-in-alignment). **If you are think AI Safety is important and you have a strong application development background, please reach out to me to collaborate!**
-* I'm a research lead in the AI Safety Camp for a [project on stable reflectivity](https://www.lesswrong.com/posts/RHojGPWLgdFLk3PAt/aisc-project-benchmarks-for-stable-reflectivity) (testing models for metacognitive capabilities that impact future training/alignment).
 
 ---
 
