@@ -6,7 +6,6 @@
 ## I'm a French Canadian working on AI Alignment!
 
 - 📄 Here's my [resume](https://docs.google.com/document/d/1DJ4z6LjEponHrweObPjoFEssXYWJKzeCkRlKOXDPOX0/edit?usp=sharing) and my [LinkedIn profile](https://www.linkedin.com/in/jacques-thibodeau/). For my AI alignment takes, [here](https://www.lesswrong.com/users/jacques-thibodeau)'s my LessWrong profile.
-- 🥅 2024 Goals: Publish AI Safety related papers. Become a world-class research engineer capable of implementing research ideas at high iteration speed. Over-deliver on my independent researcher grant projects.
 
 ### Current Project(s)
 
