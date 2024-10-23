@@ -17,6 +17,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Alignment Project Ideas (Oct 2, 2024)](https://jacquesthibodeau.com/ai-alignment-project-ideas-oct-2-2024/)
+- [How much I'm paying for AI productivity software (and the future of AI use)](https://jacquesthibodeau.com/how-much-im-paying-for-ai-productivity-software/)
+- [The importance of Entropy](https://jacquesthibodeau.com/the-importance-of-entropy/)
+- [Accelerating AI Alignment Research (Talk)](https://jacquesthibodeau.com/accelerating-ai-alignment-research-talk/)
+- [Using data attribution for AI alignment](https://jacquesthibodeau.com/using-data-attribution-for-ai-alignment/)
 - [Quantum Computing, Photonics, and Energy Bottlenecks for AGI](https://jacquesthibodeau.com/will-quantum-computing-play-a-role-in-agi-development/)
 - [AI Insights #1: How Misalignment Could Lead to Takeover & Necessary Safety Properties](https://jacquesthibodeau.com/ai-insights-1-how-misalignment-could-lead-to-takeover-necessary-safety-properties/)
 - [What I've Been Doing Lately (early 2024) and Call for Collaborators](https://jacquesthibodeau.com/update-on-what-ive-been-doing/)
