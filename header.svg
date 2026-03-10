@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f1d17"/>
+      <stop offset="40%" stop-color="#1a2f26"/>
+      <stop offset="100%" stop-color="#2d4a3e"/>
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4a6b54" stop-opacity="0">
+        <animate attributeName="offset" values="-0.5;1.5" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="20%" stop-color="#4a6b54" stop-opacity="0.08">
+        <animate attributeName="offset" values="-0.3;1.7" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="40%" stop-color="#4a6b54" stop-opacity="0">
+        <animate attributeName="offset" values="-0.1;1.9" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="glow1" cx="30%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#4a6b54" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#4a6b54" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="75%" cy="40%" r="30%">
+      <stop offset="0%" stop-color="#7a8c75" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#7a8c75" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#bg)" rx="10"/>
+
+  <!-- Ambient glows -->
+  <rect width="900" height="220" fill="url(#glow1)" rx="10"/>
+  <rect width="900" height="220" fill="url(#glow2)" rx="10"/>
+
+  <!-- Shimmer sweep -->
+  <rect width="900" height="220" fill="url(#shimmer)" rx="10"/>
+
+  <!-- Floating botanical particles -->
+  <circle cx="80" cy="45" r="2.5" fill="#7a8c75" opacity="0.4">
+    <animate attributeName="cy" values="45;28;45" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.7;0.4" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="160" cy="170" r="1.8" fill="#b8bfb0" opacity="0.3">
+    <animate attributeName="cy" values="170;152;170" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="320" cy="35" r="3" fill="#4a6b54" opacity="0.35">
+    <animate attributeName="cy" values="35;18;35" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;0.65;0.35" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="520" cy="185" r="2" fill="#7a8c75" opacity="0.3">
+    <animate attributeName="cy" values="185;165;185" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="680" cy="40" r="2.8" fill="#b8bfb0" opacity="0.25">
+    <animate attributeName="cy" values="40;22;40" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.25;0.5;0.25" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="780" cy="160" r="1.5" fill="#4a6b54" opacity="0.35">
+    <animate attributeName="cy" values="160;145;160" dur="5.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;0.6;0.35" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="840" cy="70" r="2.2" fill="#7a8c75" opacity="0.3">
+    <animate attributeName="cy" values="70;52;70" dur="7.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="7.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="420" cy="55" r="1.5" fill="#b8bfb0" opacity="0.2">
+    <animate attributeName="cy" values="55;40;55" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.45;0.2" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="140" r="2" fill="#4a6b54" opacity="0.3">
+    <animate attributeName="cy" values="140;122;140" dur="8.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.5;0.3" dur="8.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="610" cy="80" r="1.8" fill="#7a8c75" opacity="0.25">
+    <animate attributeName="cy" values="80;62;80" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.25;0.5;0.25" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Organic leaf-like shapes -->
+  <ellipse cx="70" cy="180" rx="18" ry="6" fill="#4a6b54" opacity="0.12" transform="rotate(-30 70 180)">
+    <animate attributeName="opacity" values="0.12;0.2;0.12" dur="10s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" values="-30 70 180;-25 70 180;-30 70 180" dur="10s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="830" cy="35" rx="15" ry="5" fill="#7a8c75" opacity="0.1" transform="rotate(20 830 35)">
+    <animate attributeName="opacity" values="0.1;0.18;0.1" dur="12s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" values="20 830 35;25 830 35;20 830 35" dur="12s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="180" cy="30" rx="12" ry="4" fill="#b8bfb0" opacity="0.08" transform="rotate(-15 180 30)">
+    <animate attributeName="opacity" values="0.08;0.15;0.08" dur="11s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="720" cy="175" rx="20" ry="6" fill="#4a6b54" opacity="0.1" transform="rotate(35 720 175)">
+    <animate attributeName="opacity" values="0.1;0.17;0.1" dur="9s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" values="35 720 175;40 720 175;35 720 175" dur="9s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Name -->
+  <text x="450" y="95" text-anchor="middle" fill="#FAF9F6" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="38" font-weight="700" letter-spacing="1">Jacques Thibodeau</text>
+
+  <!-- Decorative line -->
+  <line x1="340" y1="115" x2="560" y2="115" stroke="#4a6b54" stroke-width="1.5" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.8;0.5" dur="4s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Tagline -->
+  <text x="450" y="145" text-anchor="middle" fill="#b8bfb0" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16" font-weight="400" letter-spacing="3">AI SAFETY RESEARCHER &amp; FOUNDER</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="175" text-anchor="middle" fill="#7a8c75" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="14" font-weight="400" opacity="0.8">Building in stealth</text>
+</svg>
