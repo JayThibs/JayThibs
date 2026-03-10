@@ -1,7 +1,7 @@
 <img src="header.png" alt="Jacques Thibodeau" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1500&color=B8BFB0&center=true&vCenter=true&multiline=false&width=500&height=28&lines=AI+Safety+Researcher+%26+Founder;Building+tools+for+aligned+AI;From+physics+to+alignment+to+building" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1500&color=4a6b54&center=true&vCenter=true&multiline=false&width=500&height=28&lines=AI+Safety+Researcher+%26+Founder;Building+tools+for+aligned+AI;From+physics+to+alignment+to+building" alt="Typing SVG"/>
 </p>
 
 <p align="center">
