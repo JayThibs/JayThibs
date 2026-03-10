@@ -21,7 +21,7 @@ AI safety researcher turned founder. I spent years deep in alignment work, from 
 I blog at **[Aligned to Flourish](https://jacquesthibodeau.com/)** about AI safety, building in the age of agents, and the future of software.
 
 <details open>
-<summary>&nbsp;<img src="https://img.shields.io/badge/-Recent-4a6b54?style=flat-square" alt="Recent"/></summary>
+<summary><b>Recent</b></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;[When Execution Gets Cheap, Does Taste Become the Moat?](https://jacquesthibodeau.com/when-execution-gets-cheap-does-taste-become-the-moat/)\
 &nbsp;&nbsp;&nbsp;&nbsp;[Hard Truths About Where AI Is Headed](https://jacquesthibodeau.com/hard-truths-about-where-ai-is-headed/)\
@@ -33,7 +33,7 @@ I blog at **[Aligned to Flourish](https://jacquesthibodeau.com/)** about AI safe
 </details>
 
 <details>
-<summary>&nbsp;<img src="https://img.shields.io/badge/-AI_Alignment-5a7c65?style=flat-square" alt="AI Alignment"/></summary>
+<summary><b>AI Alignment</b></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;[AI Alignment Project Ideas](https://jacquesthibodeau.com/ai-alignment-project-ideas-oct-2-2024/)\
 &nbsp;&nbsp;&nbsp;&nbsp;[Accelerating AI Alignment Research (Talk)](https://jacquesthibodeau.com/accelerating-ai-alignment-research-talk/)\
@@ -43,7 +43,7 @@ I blog at **[Aligned to Flourish](https://jacquesthibodeau.com/)** about AI safe
 </details>
 
 <details>
-<summary>&nbsp;<img src="https://img.shields.io/badge/-Miscellaneous-7a8c75?style=flat-square" alt="Miscellaneous"/></summary>
+<summary><b>Miscellaneous</b></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;[How Much I'm Paying for AI Productivity Software](https://jacquesthibodeau.com/how-much-im-paying-for-ai-productivity-software/)\
 &nbsp;&nbsp;&nbsp;&nbsp;[The Importance of Entropy](https://jacquesthibodeau.com/the-importance-of-entropy/)\
