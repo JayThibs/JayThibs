@@ -1,7 +1,7 @@
-<img src="banner.png" alt="Jacques Thibodeau — AI Safety Researcher & Founder" width="100%"/>
+<img src="header.png" alt="Jacques Thibodeau" width="100%"/>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1500&color=B8BFB0&center=true&vCenter=true&multiline=false&width=500&height=28&lines=AI+Safety+Researcher+%26+Founder;Building+tools+for+aligned+AI;From+physics+to+alignment+to+building" alt="Typing SVG"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1500&color=B8BFB0&center=true&vCenter=true&multiline=false&width=500&height=28&lines=AI+Safety+Researcher+%26+Founder;Building+tools+for+aligned+AI;From+physics+to+alignment+to+building" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -20,31 +20,36 @@ AI safety researcher turned founder. I spent years deep in alignment work, from 
 
 I blog at **[Aligned to Flourish](https://jacquesthibodeau.com/)** about AI safety, building in the age of agents, and the future of software.
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Recent</h4>
-      <a href="https://jacquesthibodeau.com/when-execution-gets-cheap-does-taste-become-the-moat/"><b>When Execution Gets Cheap, Does Taste Become the Moat?</b></a><br/>
-      <a href="https://jacquesthibodeau.com/hard-truths-about-where-ai-is-headed/"><b>Hard Truths About Where AI Is Headed</b></a><br/>
-      <a href="https://jacquesthibodeau.com/difficulties-in-building-an-ai-safety-startup/"><b>Difficulties in Building an AI Safety Startup</b></a><br/>
-      <a href="https://jacquesthibodeau.com/gaining-clarity-on-automated-alignment-research/"><b>Gaining Clarity on Automated Alignment Research</b></a><br/>
-      <a href="https://jacquesthibodeau.com/better-model-diffing-is-needed/"><b>Better Model Diffing Is Needed</b></a><br/>
-      <a href="https://jacquesthibodeau.com/automating-ai-safety-what-we-can-do-today/"><b>Automating AI Safety: What We Can Do Today</b></a>
-    </td>
-    <td valign="top" width="50%">
-      <h4>AI Alignment</h4>
-      <a href="https://jacquesthibodeau.com/ai-alignment-project-ideas-oct-2-2024/"><b>AI Alignment Project Ideas</b></a><br/>
-      <a href="https://jacquesthibodeau.com/accelerating-ai-alignment-research-talk/"><b>Accelerating AI Alignment Research (Talk)</b></a><br/>
-      <a href="https://jacquesthibodeau.com/using-data-attribution-for-ai-alignment/"><b>Using Data Attribution for AI Alignment</b></a><br/>
-      <a href="https://jacquesthibodeau.com/a-descriptive-not-prescriptive-overview-of-current-ai-alignment-research/"><b>A Descriptive Overview of Current AI Alignment Research</b></a><br/>
-      <br/>
-      <h4>Miscellaneous</h4>
-      <a href="https://jacquesthibodeau.com/how-much-im-paying-for-ai-productivity-software/"><b>How Much I'm Paying for AI Productivity Software</b></a><br/>
-      <a href="https://jacquesthibodeau.com/the-importance-of-entropy/"><b>The Importance of Entropy</b></a><br/>
-      <a href="https://jacquesthibodeau.com/will-quantum-computing-play-a-role-in-agi-development/"><b>Quantum Computing, Photonics, and Energy Bottlenecks for AGI</b></a>
-    </td>
-  </tr>
-</table>
+<details open>
+<summary>&nbsp;<img src="https://img.shields.io/badge/-Recent-4a6b54?style=flat-square" alt="Recent"/></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[When Execution Gets Cheap, Does Taste Become the Moat?](https://jacquesthibodeau.com/when-execution-gets-cheap-does-taste-become-the-moat/)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Hard Truths About Where AI Is Headed](https://jacquesthibodeau.com/hard-truths-about-where-ai-is-headed/)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Difficulties in Building an AI Safety Startup](https://jacquesthibodeau.com/difficulties-in-building-an-ai-safety-startup/)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Gaining Clarity on Automated Alignment Research](https://jacquesthibodeau.com/gaining-clarity-on-automated-alignment-research/)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Better Model Diffing Is Needed](https://jacquesthibodeau.com/better-model-diffing-is-needed/)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Automating AI Safety: What We Can Do Today](https://jacquesthibodeau.com/automating-ai-safety-what-we-can-do-today/)
+
+</details>
+
+<details>
+<summary>&nbsp;<img src="https://img.shields.io/badge/-AI_Alignment-5a7c65?style=flat-square" alt="AI Alignment"/></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[AI Alignment Project Ideas](https://jacquesthibodeau.com/ai-alignment-project-ideas-oct-2-2024/)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Accelerating AI Alignment Research (Talk)](https://jacquesthibodeau.com/accelerating-ai-alignment-research-talk/)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Using Data Attribution for AI Alignment](https://jacquesthibodeau.com/using-data-attribution-for-ai-alignment/)\
+&nbsp;&nbsp;&nbsp;&nbsp;[A Descriptive Overview of Current AI Alignment Research](https://jacquesthibodeau.com/a-descriptive-not-prescriptive-overview-of-current-ai-alignment-research/)
+
+</details>
+
+<details>
+<summary>&nbsp;<img src="https://img.shields.io/badge/-Miscellaneous-7a8c75?style=flat-square" alt="Miscellaneous"/></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[How Much I'm Paying for AI Productivity Software](https://jacquesthibodeau.com/how-much-im-paying-for-ai-productivity-software/)\
+&nbsp;&nbsp;&nbsp;&nbsp;[The Importance of Entropy](https://jacquesthibodeau.com/the-importance-of-entropy/)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Quantum Computing, Photonics, and Energy Bottlenecks for AGI](https://jacquesthibodeau.com/will-quantum-computing-play-a-role-in-agi-development/)
+
+</details>
 
 <p align="center"><a href="https://jacquesthibodeau.com/">All posts &rarr;</a></p>
 
