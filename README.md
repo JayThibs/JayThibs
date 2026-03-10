@@ -1,6 +1,10 @@
 <img src="banner.png" alt="Jacques Thibodeau — AI Safety Researcher & Founder" width="100%"/>
 
 <p align="center">
+  <a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1500&color=B8BFB0&center=true&vCenter=true&multiline=false&width=500&height=28&lines=AI+Safety+Researcher+%26+Founder;Building+tools+for+aligned+AI;From+physics+to+alignment+to+building" alt="Typing SVG"/></a>
+</p>
+
+<p align="center">
   <a href="https://jacquesthibodeau.com/"><img src="https://img.shields.io/badge/Blog-Aligned_to_Flourish-2d4a3e?style=flat-square&logo=ghost&logoColor=FAF9F6" alt="Blog"/></a>&nbsp;
   <a href="https://twitter.com/JacquesThibs"><img src="https://img.shields.io/badge/-@JacquesThibs-2d4a3e?style=flat-square&logo=x&logoColor=FAF9F6" alt="X"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/jacques-thibodeau/"><img src="https://img.shields.io/badge/-LinkedIn-2d4a3e?style=flat-square&logo=linkedin&logoColor=FAF9F6" alt="LinkedIn"/></a>
