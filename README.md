@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="header.svg" alt="Jacques Thibodeau — AI Safety Researcher & Founder" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
+    <img src="header.svg" alt="Jacques Thibodeau — AI Safety Researcher & Founder" width="100%"/>
+  </picture>
 </p>
 
 <p align="center">
