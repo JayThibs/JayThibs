@@ -1,9 +1,9 @@
+<img src="banner.png" alt="" width="100%"/>
+
+<h1 align="center">Jacques Thibodeau</h1>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header.svg">
-    <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
-    <img src="header.svg" alt="Jacques Thibodeau — AI Safety Researcher & Founder" width="100%"/>
-  </picture>
+  <a href="https://github.com/JayThibs"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1500&color=B8BFB0&center=true&vCenter=true&multiline=false&width=500&height=30&lines=AI+Safety+Researcher;Founder;Building+tools+for+aligned+AI" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
@@ -15,9 +15,17 @@
 
 ---
 
-AI safety researcher turned founder. Currently building something in stealth.
+### About
 
-I've spent the last few years deep in alignment research — [SERI MATS](https://www.matsprogram.org/), the [Supervising AIs Improving AIs](https://www.lesswrong.com/posts/7e5tyFnpzGCdfT4mR/research-agenda-supervising-ais-improving-ais) agenda, and building tools that accelerate safety researchers. I think a lot about automated alignment research, what it takes to build companies around reducing AI risk, and what the future looks like when AI can do most of the execution.
+AI safety researcher turned founder. I've spent the last few years deep in alignment work — from [SERI MATS](https://www.matsprogram.org/) to leading the [Supervising AIs Improving AIs](https://www.lesswrong.com/posts/7e5tyFnpzGCdfT4mR/research-agenda-supervising-ais-improving-ais) research agenda to building tools that accelerate safety researchers.
+
+I think a lot about automated alignment research, what it takes to build companies around reducing AI risk, and what the future looks like when AI can do most of the execution.
+
+### What I'm focused on
+
+- Automated alignment research — making AI systems useful for safety work
+- The intersection of AI safety and product — turning research into things people use
+- How to build when execution is cheap but taste and vision matter more than ever
 
 ---
 
@@ -31,3 +39,15 @@ I've spent the last few years deep in alignment research — [SERI MATS](https:/
 - [Gaining Clarity on Automated Alignment Research](https://jacquesthibodeau.com/gaining-clarity-on-automated-alignment-research/)
 - [Better Model Diffing Is Needed](https://jacquesthibodeau.com/better-model-diffing-is-needed/)
 - [Automating AI Safety: What We Can Do Today](https://jacquesthibodeau.com/automating-ai-safety-what-we-can-do-today/)
+
+---
+
+<details>
+<summary><b>GitHub Stats</b></summary>
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayThibs&show_icons=true&bg_color=0a1610&title_color=b8bfb0&text_color=7a8c75&icon_color=5a7c65&border_color=2d4a3e&ring_color=4a6b54&hide_border=false&count_private=true" alt="GitHub Stats" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayThibs&background=0a1610&border=2d4a3e&stroke=2d4a3e&ring=5a7c65&fire=c75d5d&currStreakNum=b8bfb0&sideNums=b8bfb0&currStreakLabel=7a8c75&sideLabels=7a8c75&dates=4a6b54" alt="GitHub Streak" height="165"/>
+</p>
+</details>
